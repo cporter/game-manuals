@@ -21,3 +21,5 @@ anything that I'm missing.
 * [2022-2023: Powerplay](2022)
 * [2023-2024: Centerstage](2023)
 * [2024-2025: Into The Deep](2024)
+* [2025-2026: Decode](2025)
+* [2026-2026: BIOBUZZ](2026)
